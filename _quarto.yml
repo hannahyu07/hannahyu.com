@@ -10,7 +10,8 @@ website:
         text: Home
       - about.qmd
       - contact.qmd 
-
+      - href: Hannah Yu Resume.pdf
+        text: CV
 format:
   html:
     theme: cosmo

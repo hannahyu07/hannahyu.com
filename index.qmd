@@ -1,5 +1,7 @@
 ---
-title: "HI FRIEND, MY NAME IS HANNAH YU"
+title: "HI THERE, MY NAME IS HANNAH YU"
 ---
 
 I am a student at the University of Toronto. Want to know more about me? Feel free to look around!
+
+![](images/beautiful uoft.jpg)
